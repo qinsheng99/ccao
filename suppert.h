@@ -2,17 +2,19 @@
 // Created by Administrator on 2022/10/14.
 //
 
-#ifndef C___SUPPERT_H
-#define C___SUPPERT_H
-
-#include "cycle/cycle.h"
 
 
-class suppert {
+class Suppert {
+public:
+    struct Info {
+    public:char s;
+    public:int i;
+    };
 
+    Info info(int i);
 };
 
-void write();
 
 
-#endif //C___SUPPERT_H
+bool write();
+

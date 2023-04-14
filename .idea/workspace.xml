@@ -11,7 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bb82709-3486-42cc-bd40-6e574e19df2f" name="Default Changelist" comment="" />
+    <list default="true" id="6bb82709-3486-42cc-bd40-6e574e19df2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/main.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suppert.cc" beforeDir="false" afterPath="$PROJECT_DIR$/suppert.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suppert.h" beforeDir="false" afterPath="$PROJECT_DIR$/suppert.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,10 +27,14 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="2mzpuxad" />
   </component>
   <component name="ProjectId" id="2OJaYyBLYRF8ghB0zWV3YdRNSWX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,12 +43,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\demo\abc" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="abc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="abc" RUN_TARGET_NAME="abc" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -62,10 +86,25 @@
       <workItem from="1681281254452" duration="6000" />
       <workItem from="1681281342182" duration="4000" />
       <workItem from="1681281440793" duration="24000" />
+      <workItem from="1681281593286" duration="309000" />
+      <workItem from="1681284767447" duration="320000" />
+      <workItem from="1681456604975" duration="1738000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
